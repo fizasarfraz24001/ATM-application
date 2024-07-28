@@ -6,4 +6,6 @@ Features
 **Withdraw:** Allows users to withdraw a specified amount from their account, with balance checks to prevent overdrawing.
 **Fast Cash:** Offers predefined quick withdrawal options for user convenience.
 **Check Balance:** Enables users to check their current account balance.
-Run Project using command
+**Run Project using command**
+npx f03-atm-application
+
